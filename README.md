@@ -1,2 +1,3 @@
 # bakamono
-Bakamono is a test game app of unity.
+<p>Bakamono is a test game app for unity projects.</p>
+
