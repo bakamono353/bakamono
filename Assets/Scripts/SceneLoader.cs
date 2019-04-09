@@ -19,7 +19,6 @@ public class SceneLoader : MonoBehaviour
 
 	public void QuitGame()
 	{
-		Application.OpenURL("https://imaipublishing.com");
 		Application.Quit();
 	}
 }
